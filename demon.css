@@ -1,0 +1,375 @@
+body{
+    text-align: center;
+    background-color: black;
+ }
+ .header1{
+     text-align: center;
+     
+ }
+ .firstimage{
+     text-align: center;
+     width: 1900px;
+     height:700PX;  
+ }
+ .top{
+     font-weight: bold;
+     font-size: xx-large;
+     font-family: sans-serif;
+     color: white;
+     position: absolute;
+     top: 30%;
+     left: 25%;
+     right: 25%;
+   
+ }
+ .top2{
+     font-size: x-large;
+     color: white;
+     position: absolute;
+     top: 50%;
+     left: 30%;
+     right: 30%;
+ }
+ .topbutton{
+     position: absolute;
+     top:60%;
+     left: 46%;
+     
+ }
+ 
+ .btn1{
+     width: 150px;
+     height: 50px;
+     color: #ff00f2;
+     background-color:antiquewhite ;
+     border:none;
+     cursor: pointer;
+     border-radius: 20px;
+     text-transform: uppercase;
+     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+     transition: all 0.3s ease 0s;
+   
+ }
+ .btn1:hover {
+     background-color: #2EE59D;
+     box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+     color: #fff;
+     transform: translateY(-7px);
+ }
+ .header2{
+     text-align: center;
+ }
+ .top3{
+     color: aliceblue;
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ .top4{
+     color: aliceblue;
+     position: absolute;
+     left: 20%;
+     right: 20%;
+ }
+ 
+ .btn2{
+     font-size: larger;
+     font-weight: bold;
+     color: gray;
+     background-color: gainsboro;
+     transition-duration: 0.5s;
+     cursor: pointer;
+     border:none;
+     border-radius: 5px;
+     height: 60px;
+     width: 90px;
+ }
+ .btn2:hover{
+     background-color: #ff00f2;
+     color: antiquewhite;
+ }
+ .btn3{
+     font-size: larger;
+     font-weight: bold;
+     color: gray;
+     background-color: gainsboro;
+     cursor: pointer;
+     border: none;
+     border-radius: 5px;
+     height: 60px;
+     width: 90px;
+ }
+ .btn3:hover{
+     background-color: #ff00f2;
+     color: antiquewhite;
+ }
+ .btn4{
+     font-size: larger;
+     font-weight: bold;
+     color: gray;
+     background-color: gainsboro;
+     cursor: pointer;
+     border: none;
+     border-radius: 5px;
+     height: 60px;
+     width: 90px;
+ }
+ .btn4:hover{
+     background-color: #ff00f2;
+     color: antiquewhite;
+ }
+ .btn5{
+     font-size: larger;
+     font-weight: bold;
+     color: gray;
+     background-color: gainsboro;
+     cursor: pointer;
+     border:none;
+     border-radius: 5px;
+     height: 60px;
+     width: 90px;
+ }
+ .btn5:hover{
+     background-color: #ff00f2;
+     color: antiquewhite;
+ }
+ .btn6{
+     font-size: larger;
+     font-weight: bold;
+     color: gray;
+     background-color: gainsboro;
+     cursor: pointer;
+     border:none;
+     border-radius: 5px;
+     height: 60px;
+     width: 90px;
+ }
+ .btn6:hover{
+     background-color: #ff00f2;
+     color: antiquewhite;
+ }
+ .header4{
+     text-align: center;
+ 
+     
+ }
+ .input1{
+     text-align: center;
+     border-top-style: hidden;
+     border-right-style: hidden;
+     border-left-style: hidden;
+     width: 51%;
+    
+ }
+ .btn7{
+     width: 100px;
+     height: 40px;
+     color: #ff00f2;
+     background-color: antiquewhite;
+     border:none;
+     cursor: pointer;
+     border-radius: 20px;
+     text-transform: uppercase;
+     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+     transition: all 0.3s ease 0s;
+ }
+ .btn7:hover {
+     background-color: #2EE59D;
+     box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+     color: #fff;
+     transform: translateY(-7px);
+ }
+
+ .top5{
+     color: aliceblue;
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ .top6{
+     color: aliceblue;
+     position: absolute;
+     left: 20%;
+     right: 20%;
+ }
+ .header6{
+     box-align: center;
+ }
+ .fooddonation{
+     border-radius: 10px;
+     border: 1px solid ;
+     width: 300px;
+     height: 260px;
+     background-color: aqua;
+     border-color: aqua;
+    
+ }
+ .foodsec{
+    
+     margin-top: 5px;
+     margin-left: 10px;
+     margin-right: 10PX;
+     margin-bottom: 5PX;
+ }
+ .food{
+     
+     margin-top: 2px;
+     margin-left: 10PX;
+     height: 70px;
+     width: 70px;
+ }
+ .top7{
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: large;
+ }
+ .top8{
+     font-family: cursive;
+     font-size: small;
+ }
+ .shelterdonation{
+     border-radius: 10px;
+     border: 1px solid ;
+     width: 300px;
+     height: 260px;
+     background-color: cornflowerblue;
+     border-color: cornflowerblue;
+ }
+ .shelter{
+     margin-top: 2px;
+     margin-left: 10PX;
+     height: 70px;
+     width: 70px;
+ }
+ .top9{
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size:large;
+ }
+ .top10{
+     font-family: cursive;
+     font-size: small;
+ }
+ .sheltersec{
+     margin-top: 5px;
+     margin-left: 10px;
+     margin-right: 10PX;
+     margin-bottom: 5PX;
+ }
+ .educationdonation{
+     border-radius: 10px;
+     border: 1px solid ;
+     width: 300px;
+     height: 260px;
+     background-color: palevioletred;
+     border-color: palevioletred;
+ }
+ .education{
+     margin-top: 2px;
+     margin-left: 10PX;
+     height: 70px;
+     width: 70px;
+ }
+ .top11{
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: large;
+ }
+ .top12{
+     font-family: cursive;
+     font-size: small;
+ }
+ .educationsec{
+     margin-top: 10px;
+     margin-left: 10px;
+     margin-right: 10PX;
+     margin-bottom: 5PX;
+ }
+ .top13{
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ .top14{
+     font-family: monospace;
+ 
+ }
+ .secondimage{
+     border-radius: 5px;
+     float: right;
+     height: 200px;
+     width: 200px;
+ 
+ }
+
+ .whole{
+     display: flex;
+     justify-content: center;
+ }
+ .header6{
+     margin: auto;
+ }
+ .whole3{
+     margin: auto;
+     display: flex;
+     border: 1px solid;
+     border-color: darkolivegreen;
+     width: 920px;
+     background-color: #000000;
+     color: aliceblue;
+ }
+ .top15{
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ .top16{
+     font-family: monospace;
+ }
+ .thirdimage{
+     border-radius: 10px;
+     float: right;
+     height: 200px;
+     width: 200px;
+ }
+ .top17{
+     color: aliceblue;
+     font-weight: bold;
+     font-family: sans-serif;
+ }
+ .top18{
+     color: aliceblue;
+ }
+ 
+ .input2{
+     border: none;
+     background-color: aqua;
+     margin-top: 16px;
+     padding: 20px 60px 20px 60px;
+ }
+ ::placeholder {
+     font-style: italic;
+     font-size: 1em;
+     color: #ff00f2;
+     background: gainsboro;
+     padding: 5px;
+   }
+ .btn8{
+     border-radius: 10px;
+     height: 30px;
+     width: 90px;
+     background-color: #f00000;
+     color: wheat;
+     cursor: pointer;
+ }
+ .top19{
+     font-family:  cursive ;
+     color: aliceblue;
+ }
+ .top20{
+     color: aliceblue;
+ }
+ .header10{
+     background-color: dimgray;
+ }
+ .btn9{
+     color: #ff00f2;
+     background-color:antiquewhite ;
+     cursor: pointer;
+ }
